@@ -1,0 +1,7 @@
+site_name: Getting Started Guide
+site_description: Portal
+nav:
+  - Getting Started:
+      - Introduction: index.md
+
+
