@@ -3,5 +3,7 @@ site_description: Portal
 nav:
   - Getting Started:
       - Introduction: index.md
+plugins:
+  - techdocs-core
 
 
